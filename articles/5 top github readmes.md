@@ -3,7 +3,7 @@
   
   # 5 Top Github READMEs
   
-  **Tags:** `github`
+  **Tags:** github
 
   **Published At:** 8/1/2024, 2:52:57 AM
 
