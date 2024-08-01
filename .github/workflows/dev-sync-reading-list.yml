@@ -1,4 +1,4 @@
-name: DevtoGitHub
+name: Update Dev.to Reading List
 
 on:
   schedule:
