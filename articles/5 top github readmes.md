@@ -7,7 +7,7 @@
 
   **Published At:** 8/1/2024, 2:52:57 AM
 
-  **URL:** [https://dev.to/nathanielchit/5-top-github-readmes-hn5](https://dev.to/nathanielchit/5-top-github-readmes-hn5)
+  **URL:** [https://dev.to/nathanielchi/5-top-github-readmes-hn5](https://dev.to/nathanielchi/5-top-github-readmes-hn5)
 
   <hr />
   This Blog Post will be about mainly 5 Profile READMEs that I think really stand out 
