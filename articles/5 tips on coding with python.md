@@ -3,7 +3,7 @@
   
   # 5 Tips on Coding with Python
   
-  **Tags:** `python`, `beginners`
+  **Tags:** python, beginners
 
   **Published At:** 8/2/2024, 5:31:06 PM
 
